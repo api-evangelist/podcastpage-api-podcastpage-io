@@ -9,7 +9,6 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Podcasting
   - Website Builder
-  - API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/podcastpage-api-podcastpage-io/refs/heads/main/apis.yml
 created: '2026-03-16'
