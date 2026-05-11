@@ -46,6 +46,13 @@ common:
     url: https://podcastpage.io/
   - type: Documentation
     url: https://docs.beamly.com/
+  - type: Integrations
+    url: https://beamly.com/integrations/
+integrations:
+  - name: Beamly
+  - name: Instagram
+  - name: kit
+  - name: iVoox podcast website
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
