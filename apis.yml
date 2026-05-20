@@ -40,6 +40,8 @@ apis:
       - type: HelpCenter
         url: https://docs.beamly.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/podpage
   - type: Website
     url: https://beamly.com/
   - type: LegacyWebsite
