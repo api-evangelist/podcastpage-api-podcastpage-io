@@ -40,6 +40,8 @@ apis:
       - type: HelpCenter
         url: https://docs.beamly.com/
 common:
+  - type: DomainSecurity
+    url: security/podcastpage-api-podcastpage-io-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/podpage
   - type: Website
@@ -50,6 +52,8 @@ common:
     url: https://docs.beamly.com/
   - type: Integrations
     url: https://beamly.com/integrations/
+  - url: https://beamly.com/feed/
+    type: Blog
 integrations:
   - name: Beamly
   - name: Instagram
