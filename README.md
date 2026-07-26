@@ -21,11 +21,6 @@ Podcastpage.io was a podcast website builder that provided programmatic access f
 
 ## APIs
 
-### Podcastpage API
-
-Podcastpage.io's API supported management of podcast websites, episodes, and related content. The service has rebranded to Beamly and does not publish a public OpenAPI specification at this time. This entry is maintained as a reference index for the former product brand and any future Beamly developer surface.
-
-**Human URL:** [https://beamly.com/](https://beamly.com/)
 
 #### Tags
 

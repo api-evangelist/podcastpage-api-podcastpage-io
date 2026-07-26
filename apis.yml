@@ -8,9 +8,21 @@ description: >-
   documentation, and integration support is provided through customer support
   and Help Center articles.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/podcastpage-api-podcastpage-io.png
 tags:
   - Podcasting
   - Website Builder
@@ -19,26 +31,9 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/podcastpage-api-podcastpage-io/refs/heads/main/apis.yml
 created: '2026-03-16'
-modified: '2026-04-28'
+modified: '2026-07-25'
 specificationVersion: '0.19'
-apis:
-  - aid: podcastpage-api-podcastpage-io:podcastpage-api
-    name: Podcastpage API
-    description: >-
-      Podcastpage.io's API supported management of podcast websites, episodes,
-      and related content. The service has rebranded to Beamly and does not
-      publish a public OpenAPI specification at this time. This entry is
-      maintained as a reference index for the former product brand and any
-      future Beamly developer surface.
-    humanURL: https://beamly.com/
-    tags:
-      - Podcasting
-      - Website Builder
-    properties:
-      - type: Documentation
-        url: https://docs.beamly.com/
-      - type: HelpCenter
-        url: https://docs.beamly.com/
+apis: []
 common:
   - type: DomainSecurity
     url: security/podcastpage-api-podcastpage-io-domain-security.yml
