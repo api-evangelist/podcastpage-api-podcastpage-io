@@ -46,6 +46,12 @@ modified: '2026-07-25'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Plans
+    url: plans/podcastpage-api-podcastpage-io-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/podcastpage-api-podcastpage-io-rate-limits.yml
+  - type: FinOps
+    url: finops/podcastpage-api-podcastpage-io-finops.yml
   - type: DomainSecurity
     url: security/podcastpage-api-podcastpage-io-domain-security.yml
   - type: LinkedIn
